@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148576497322",
+    "project_id": "datatest-2ea5e",
+    "storage_bucket": "datatest-2ea5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148576497322:android:85f762d73fd3e37e5aead3",
+        "android_client_info": {
+          "package_name": "com.example.basedate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148576497322-bi5eqseuqqp1q4ru23smgbj216smbmi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFwLXiTGdzm0qGfrQ9LHwQBucPLlIQ7eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148576497322-bi5eqseuqqp1q4ru23smgbj216smbmi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
