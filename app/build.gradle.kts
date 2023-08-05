@@ -38,6 +38,8 @@ android {
 }
 
 dependencies {
+    implementation("com.google.firebase:firebase-database-ktx")
+
     implementation ("com.google.firebase:firebase-auth-ktx:22.1.1")
     implementation ("com.firebaseui:firebase-ui-auth:8.0.2")
 
